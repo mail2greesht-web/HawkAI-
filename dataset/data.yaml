@@ -1,0 +1,8 @@
+# Isse copy aur paste karein:
+path: C:/Users/Waheguru/PycharmProjects/PythonProject1.0/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['Theft - Alert']
